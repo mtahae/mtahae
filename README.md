@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Safak UAV](https://www.instagram.com/safak.iha?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 🌱 I’m currently learning **Fusion 360, Unreal Engine**
+- 🌱 I’m currently learning **Fusion 360, C#**
 
 - 📫 How to reach me **mteeperen@gmail.com**
 
